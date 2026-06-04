@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b500ff&height=120&section=header"/>
+
 # ✦ Lógica de Programação — Visualg
 
 Repositório dedicado aos meus exercícios de **Lógica de Programação**, desenvolvidos utilizando **Visualg (Portugol)**.
@@ -62,3 +64,5 @@ https://www.linkedin.com/in/maria-paula-lopes/
 
 ⌁ Email:  
 mariapaulalopessilva5@gmail.com
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b500ff&height=120&section=footer"/>
