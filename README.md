@@ -6,23 +6,26 @@ Este projeto tem como objetivo registrar minha evolução no desenvolvimento do 
 
 ---
 
-## ◈ Sobre este repositório
+## ✧ Sobre este repositório
 
 Este repositório faz parte do meu processo contínuo de aprendizado em programação.  
 Os exercícios serão adicionados conforme avanço nos estudos e aumento o nível de complexidade dos algoritmos.
 
 ---
 
-## ◈ Objetivos
+## ✧ Objetivos
 
 ▸ Desenvolver raciocínio lógico e algorítmico  
+
 ▸ Consolidar fundamentos essenciais da programação  
-▸ Praticar estruturas básicas antes de avançar para linguagens como JavaScript  
+
+▸ Praticar estruturas básicas antes de avançar para linguagens como JavaScript
+
 ▸ Manter registro organizado da evolução nos estudos  
 
 ---
 
-## ◈ Organização do Repositório
+## ✧ Organização do Repositório
 
 Os exercícios estão organizados por assunto:
 
@@ -36,7 +39,7 @@ Os exercícios estão organizados por assunto:
 
 ---
 
-## ◈ Como executar os arquivos
+## ✧ Como executar os arquivos
 
 ▸ Instale o **Visualg**
 
@@ -46,7 +49,7 @@ Os exercícios estão organizados por assunto:
 
 ---
 
-## ◈ Autora
+## ✧ Autora
 
 **Maria Paula Lopes Silva**  
 Técnica em Informática — CEDAF / UFV  
